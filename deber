@@ -10,5 +10,4 @@ for c in range (50):
       s = n+a
       n = a 
       a = s 
-     
-
+      c = c + 1
